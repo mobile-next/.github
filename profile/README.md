@@ -14,6 +14,7 @@
 ## Our Projects
 
 - 🤖 [Mobile MCP Server: Scalable Automation for iOS & Android](https://github.com/mobile-next/mobile-mcp/tree/main)
+- 👀 [Mobile A2A - Agent2Agent: COMING SOON! 🚀](https://github.com/mobile-next/mobile-a2a/)
 
 Our first project, the Mobile MCP server, brings cross-platform mobile automation for iOS and Android into MCP clients like Claude, Cursor, Copilot.
 Iterate faster.
