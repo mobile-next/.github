@@ -4,11 +4,21 @@
 - Any developer can bring their ideas to life without friction.
 - No more mobile platform specific tooling, no more vendor locking, no more UX nightmares.
 - Open source and secure from the get go.
-<a href="https://github.com/mobile-next">
-    <img src="https://img.shields.io/github/stars/mobile-next" alt="Mobile Next Stars" />
-</a>
 
-<p align="center">
+<h4 align="left">
+    <a href="https://github.com/mobile-next">
+        <img src="https://img.shields.io/github/stars/mobile-next" alt="Mobile Next Stars" />
+    </a>
+    <a href="https://www.npmjs.com/package/@mobilenext/mobile-mcp">
+        <img src="https://img.shields.io/npm/dm/@mobilenext/mobile-mcp?logo=npm&style=flat&color=red" alt="npm">
+    </a>
+    <a href="https://github.com/mobile-next/mobile-mcp">
+        <img src="https://img.shields.io/github/contributors/mobile-next/mobile-mcp?color=green" alt="Mobile Next Downloads" />
+    </a>
+  
+</p>
+
+<p align="left">
     <a href="https://github.com/user-attachments/assets/861bdfd5-dc2a-4d0c-b104-992034030fd2">
         <img alt="mobile-mcp" src="https://github.com/user-attachments/assets/861bdfd5-dc2a-4d0c-b104-992034030fd2" width="600">
     </a>
