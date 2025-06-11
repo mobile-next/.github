@@ -4,6 +4,9 @@
 - Any developer can bring their ideas to life without friction.
 - No more mobile platform specific tooling, no more vendor locking, no more UX nightmares.
 - Open source and secure from the get go.
+<a href="https://github.com/mobile-next">
+    <img src="https://img.shields.io/github/stars/mobile-next" alt="Mobile Next Stars" />
+</a>
 
 <p align="center">
     <a href="https://github.com/user-attachments/assets/861bdfd5-dc2a-4d0c-b104-992034030fd2">
