@@ -33,7 +33,7 @@
 ## Our Projects
 
 - 🤖 [Mobile MCP Server: Scalable Automation for iOS & Android](https://github.com/mobile-next/mobile-mcp/tree/main)
-- 📱 [Mobile Deck: View and control devices without leaving the IDE]([https://github.com/mobile-next/mobiledeck](https://marketplace.visualstudio.com/items?itemName=mobilenext.mobiledeck))
+- 📱 [Mobile Deck: View and control devices without leaving the IDE](https://marketplace.visualstudio.com/items?itemName=mobilenext.mobiledeck)
 - ⚙️ [Mobile CLI - Universal command-line tool for managing iOS and Android devices, simulators, emulators and apps](https://github.com/mobile-next/mobilecli)
 - 👀 MobileWright - Platform and framework agnostic automation script: COMING SOON! 🚀
 
