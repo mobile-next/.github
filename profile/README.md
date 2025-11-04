@@ -1,4 +1,8 @@
-Mobile Next: The future of mobile development
+<p align="left">
+    <a href="https://github.com/user-attachments/assets/861bdfd5-dc2a-4d0c-b104-992034030fd2">
+        <img alt="Mobile Next: the future of mobile development" src="https://github.com/user-attachments/assets/861bdfd5-dc2a-4d0c-b104-992034030fd2" width="600">
+    </a>
+</p>
 
 - Our mission is to make mobile development accessible to everyone. 
 - Any developer can bring their ideas to life without friction.
@@ -22,11 +26,7 @@ Mobile Next: The future of mobile development
     <img src="https://img.shields.io/badge/join-Slack-blueviolet?logo=slack&style=flat" alt="Slack community channel" />
 </a>	
 </p>
-<p align="left">
-    <a href="https://github.com/user-attachments/assets/861bdfd5-dc2a-4d0c-b104-992034030fd2">
-        <img alt="mobile-mcp" src="https://github.com/user-attachments/assets/861bdfd5-dc2a-4d0c-b104-992034030fd2" width="600">
-    </a>
-</p>
+
 
 
 
