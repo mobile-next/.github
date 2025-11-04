@@ -3,7 +3,7 @@
 - Our mission is to make mobile development accessible to everyone. 
 - Any developer can bring their ideas to life without friction.
 - No more mobile platform specific tooling, no more vendor locking, no more UX nightmares.
-- Open source and secure from the get go.
+- Open source and secure from the get go, connect it easily to any AI Agent and AI Tool
 
 <h4 align="left">
     <a href="https://github.com/mobile-next">
