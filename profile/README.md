@@ -1,4 +1,4 @@
-# 🚀📱 Mobile Next: The future of mobile development
+Mobile Next: The future of mobile development
 
 - Our mission is to make mobile development accessible to everyone. 
 - Any developer can bring their ideas to life without friction.
