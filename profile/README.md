@@ -19,6 +19,9 @@
     <a href="https://github.com/mobile-next/mobile-mcp">
         <img src="https://img.shields.io/github/contributors/mobile-next/mobile-mcp?color=green" alt="Mobile Next Downloads" />
     </a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=mobilenext.mobiledeck">
+        <img src="https://img.shields.io/visual-studio-marketplace/i/mobilenext.mobiledeck?logo=visual-studio-code&color=blue&label=VSCode%20installs" alt="Mobile Next Downloads" />
+    </a>
   
 </p>
 <h4 align="left">
@@ -28,13 +31,13 @@
 </p>
 
 
-
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=mobilenext.mobiledeck)
 
 ## Our Projects
 
 - 🤖 [Mobile MCP Server: Scalable Automation for iOS & Android](https://github.com/mobile-next/mobile-mcp/tree/main)
 - 📱 [Mobile Deck: View and control devices without leaving the IDE](https://marketplace.visualstudio.com/items?itemName=mobilenext.mobiledeck)
-- ⚙️ [Mobile CLI - Universal command-line tool for managing iOS and Android devices, simulators, emulators and apps](https://github.com/mobile-next/mobilecli)
+- ⚙️ [Mobile CLI - Universal command-line tool for managing iOS and Android devices, simulators, emulators and apps](https://github.com/mobile-next/mobilecli) 
 - 👀 MobileWright - Platform and framework agnostic automation script: COMING SOON! 🚀
 
 Our first project, the Mobile MCP server, brings cross-platform mobile automation for iOS and Android into MCP clients like Claude, Cursor, Copilot.
