@@ -19,9 +19,11 @@
     <a href="https://github.com/mobile-next/mobile-mcp">
         <img src="https://img.shields.io/github/contributors/mobile-next/mobile-mcp?color=green" alt="Mobile Next Downloads" />
     </a>
+    <!--
     <a href="https://marketplace.visualstudio.com/items?itemName=mobilenext.mobiledeck">
         <img src="https://img.shields.io/visual-studio-marketplace/i/mobilenext.mobiledeck?logo=visual-studio-code&color=blue&label=VSCode%20installs" alt="Mobile Next Downloads" />
     </a>
+    -->
   
 </p>
 <h4 align="left">
