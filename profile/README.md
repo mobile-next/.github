@@ -39,6 +39,8 @@
 Our first project, the Mobile MCP server, brings cross-platform mobile automation for iOS and Android into MCP clients like Claude, Cursor, Copilot.
 Iterate faster.
 
-https://github.com/user-attachments/assets/c4e89c4f-cc71-4424-8184-bdbc8c638fa1
+
+https://github.com/user-attachments/assets/c55f935b-076b-4c4b-a758-b3b81179dab3
+
 
 [Check out our YouTube for more usecase videos](https://www.youtube.com/watch?v=xudLAiiimpQ)
