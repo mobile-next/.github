@@ -40,3 +40,5 @@ Our first project, the Mobile MCP server, brings cross-platform mobile automatio
 Iterate faster.
 
 https://github.com/user-attachments/assets/c4e89c4f-cc71-4424-8184-bdbc8c638fa1
+
+[Check out our YouTube for more usecase videos](https://www.youtube.com/watch?v=xudLAiiimpQ)
