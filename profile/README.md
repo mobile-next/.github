@@ -6,7 +6,7 @@
 
 - Our mission is to make mobile development accessible to everyone. 
 - Any developer can bring their ideas to life without friction.
-- No more mobile platform specific tooling, no more vendor locking, no more UX nightmares.
+- No more mobile platform-specific tooling, no more vendor locking, no more UX nightmares.
 - Open source and secure from the get go, connect it easily to any AI Agent and AI Tool
 
 <h4 align="left">
@@ -31,7 +31,7 @@
 
 ## Our Projects
 
-- 🤖 [Mobile MCP Server: Scalable Automation for iOS & Android](https://github.com/mobile-next/mobile-mcp/tree/main)
+- 🤖 [Mobile MCP Server: Scalable Automation for iOS & Android Real Devices](https://github.com/mobile-next/mobile-mcp/tree/main)
 - 📱 [Mobile Deck: View and control devices without leaving the IDE](https://marketplace.visualstudio.com/items?itemName=mobilenext.mobiledeck)
 - ⚙️ [Mobile CLI - Universal command-line tool for managing iOS and Android devices, simulators, emulators and apps](https://github.com/mobile-next/mobilecli) 
 - 👀 MobileWright - Platform and framework agnostic automation script: COMING SOON! 🚀
