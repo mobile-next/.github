@@ -26,9 +26,6 @@
 </a>	
 </p>
 
-
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=mobilenext.mobiledeck)
-
 ## Our Projects
 
 - 🤖 [Mobile MCP Server: Scalable Automation for iOS & Android Real Devices](https://github.com/mobile-next/mobile-mcp/tree/main)
