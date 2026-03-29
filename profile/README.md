@@ -34,7 +34,7 @@
 - 🤖 [Mobile MCP Server: Scalable Automation for iOS & Android Real Devices](https://github.com/mobile-next/mobile-mcp/tree/main)
 - 📱 [Mobile Deck: View and control devices without leaving the IDE](https://marketplace.visualstudio.com/items?itemName=mobilenext.mobiledeck)
 - ⚙️ [Mobile CLI - Universal command-line tool for managing iOS and Android devices, simulators, emulators and apps](https://github.com/mobile-next/mobilecli) 
-- 👀 MobileWright - Platform and framework agnostic automation script: COMING SOON! 🚀
+- 👀 [MobileWright - Platform and framework agnostic end-to-end automation and test framework! 🚀](https://github.com/mobile-next/mobilewright)
 
 Our first project, the Mobile MCP server, brings cross-platform mobile automation for iOS and Android into MCP clients like Claude, Cursor, Copilot.
 Iterate faster.
