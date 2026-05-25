@@ -1,8 +1,10 @@
 <p align="left">
-    <a href="https://github.com/user-attachments/assets/861bdfd5-dc2a-4d0c-b104-992034030fd2">
-        <img alt="Mobile Next: the future of mobile development" src="https://github.com/user-attachments/assets/861bdfd5-dc2a-4d0c-b104-992034030fd2" width="600">
+    <a href="https://github.com/user-attachments/assets/826d0742-29b0-45e7-955a-30da3521ac8e">
+        <img alt="Mobile Next: the future of mobile development" src="https://github.com/user-attachments/assets/826d0742-29b0-45e7-955a-30da3521ac8e" width="600">
     </a>
 </p>
+
+
 
 - Our mission is to make mobile development accessible to everyone. 
 - Any developer can bring their ideas to life without friction.
