@@ -21,11 +21,9 @@
     <a href="https://github.com/mobile-next/mobile-mcp">
         <img src="https://img.shields.io/github/contributors/mobile-next/mobile-mcp?color=green" alt="Mobile Next Downloads" />
     </a>  
-</p>
-<h4 align="left">
-<a href="http://mobilenexthq.com/join-slack">
-    <img src="https://img.shields.io/badge/join-Slack-blueviolet?logo=slack&style=flat" alt="Slack community channel" />
-</a>	
+    <a href="http://mobilenexthq.com/join-slack">
+        <img src="https://img.shields.io/badge/join-Slack-blueviolet?logo=slack&style=flat" alt="Slack community channel" />
+    </a>	
 </p>
 
 ## Our Projects
