@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/github/stars/mobile-next" alt="Mobile Next Stars" />
     </a>
     <a href="https://www.npmjs.com/package/@mobilenext/mobile-mcp">
-        <img src="https://img.shields.io/npm/dm/@mobilenext/mobile-mcp?logo=npm&style=flat&color=red" alt="npm">
+        <img src="https://img.shields.io/npm/dm/mobilecli?logo=npm&style=flat&color=red" alt="npm">
     </a>
     <a href="https://github.com/mobile-next/mobile-mcp">
         <img src="https://img.shields.io/github/contributors/mobile-next/mobile-mcp?color=green" alt="Mobile Next Downloads" />
