@@ -1,8 +1,12 @@
 <p align="left">
-    <a href="https://github.com/user-attachments/assets/826d0742-29b0-45e7-955a-30da3521ac8e">
-        <img alt="Mobile Next: the future of mobile development" src="https://github.com/user-attachments/assets/826d0742-29b0-45e7-955a-30da3521ac8e" width="600">
+    <a href="https://raw.githubusercontent.com/mobile-next/.github/main/profile/banner.png">
+        <img alt="Mobile Next: the future of mobile development" src="https://raw.githubusercontent.com/mobile-next/.github/main/profile/banner.png" width="600">
     </a>
 </p>
+
+```bash
+npx @mobilenext/mobile-mcp@latest install
+```
 
 
 
